@@ -1,0 +1,12 @@
+[Desktop Entry]
+Categories=Office;TextTools;
+Comment=Your personal research assistant
+Exec=AppRun %U
+Icon=zotero
+Name=Zotero
+StartupNotify=true
+StartupWMClass=Zotero
+Terminal=false
+Type=Application
+X-MultipleArgs=false
+X-KDE-Protocols=Zotero
